@@ -1,0 +1,37 @@
+hgroup.title{
+    color: red;
+    font-family: 'Ubuntu', sans-serif;
+}
+body{
+    background-color: #00ffff;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+html {
+    height: 100%;
+  }
+
+  footer {position: absolute; bottom: 0; left: 0; right: 0}
+  
+  table
+{
+    border-collapse: collapse;
+}
+td, th /* Mettre une bordure sur les td ET les th */
+{
+    border: 1px solid black;
+}
+p.text{
+    color: #000;
+    vertical-align: auto;
+    translate: French;
+}
+h2.sign-in{
+    color: #0000f0;
+}
+h2.login{
+    color: #000;
+    
+}

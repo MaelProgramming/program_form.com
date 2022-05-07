@@ -1,0 +1,12 @@
+{
+  "name": "fr.programform.app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serveur.js",
+  "scripts": {
+    "start": "nodemon serveur.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
